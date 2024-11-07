@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>6 (217).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\6 (217).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Insulator flashover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1261</xmin>
+			<ymin>1217</ymin>
+			<xmax>2139</xmax>
+			<ymax>2749</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Insulator flashover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2727</xmin>
+			<ymin>1201</ymin>
+			<xmax>3570</xmax>
+			<ymax>2722</ymax>
+		</bndbox>
+	</object>
+</annotation>
