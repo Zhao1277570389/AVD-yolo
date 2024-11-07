@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>data</folder>
+	<filename>1928</filename>
+	<path>data/1928</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>247</ymin>
+			<xmax>340</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>101</ymin>
+			<xmax>555</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

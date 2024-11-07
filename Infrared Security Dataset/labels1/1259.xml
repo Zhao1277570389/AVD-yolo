@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>data</folder>
+	<filename>1259</filename>
+	<path>data/1259</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>161</ymin>
+			<xmax>98</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

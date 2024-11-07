@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>data</folder>
+	<filename>1331</filename>
+	<path>data/1331</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>51</ymin>
+			<xmax>176</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

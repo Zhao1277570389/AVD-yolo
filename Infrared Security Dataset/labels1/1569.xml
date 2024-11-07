@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>data</folder>
+	<filename>1569</filename>
+	<path>data/1569</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>55</ymin>
+			<xmax>318</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>58</ymin>
+			<xmax>555</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>
