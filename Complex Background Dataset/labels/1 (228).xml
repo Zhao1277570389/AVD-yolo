@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1 (228).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\1 (228).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6146</width>
+		<height>6146</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>niaowo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3251</xmin>
+			<ymin>3160</ymin>
+			<xmax>4293</xmax>
+			<ymax>4293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>niaowo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2068</xmin>
+			<ymin>2610</ymin>
+			<xmax>2910</xmax>
+			<ymax>3693</ymax>
+		</bndbox>
+	</object>
+</annotation>
