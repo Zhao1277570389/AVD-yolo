@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>8 (143).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\8 (143).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3413</width>
+		<height>3413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Damage of shockproof hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1432</xmin>
+			<ymin>1546</ymin>
+			<xmax>1722</xmax>
+			<ymax>1841</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Damage of shockproof hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2351</xmin>
+			<ymin>832</ymin>
+			<xmax>2708</xmax>
+			<ymax>1194</ymax>
+		</bndbox>
+	</object>
+</annotation>
