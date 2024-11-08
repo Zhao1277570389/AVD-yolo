@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>5 (87).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\5 (87).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>974</width>
+		<height>807</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator breakage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>189</ymin>
+			<xmax>617</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
