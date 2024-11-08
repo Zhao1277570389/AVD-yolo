@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>3 (121).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\3 (121).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>574</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wire foreign body</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>145</ymin>
+			<xmax>399</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

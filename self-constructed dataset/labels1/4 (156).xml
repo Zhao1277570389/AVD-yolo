@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>4 (356).jpg</filename>
+	<path>C:\Users\赵文龙\Desktop\VOC2007\JPEGImages\4 (356).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5430</width>
+		<height>5430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator missing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2018</xmin>
+			<ymin>2010</ymin>
+			<xmax>3526</xmax>
+			<ymax>3457</ymax>
+		</bndbox>
+	</object>
+</annotation>
