@@ -1,0 +1,13 @@
+
+train: dada/images/train
+val: dada/images/val
+test: dada/images/test
+nc: 1
+names: ['Powdery Mildew']
+
+#   dada/images/test
+#   dada/images/train
+#   dada/images/val
+# train: /root/bf/images/train
+#  val: /root/bf/images/val
+#   test: /root/bf/images/test
